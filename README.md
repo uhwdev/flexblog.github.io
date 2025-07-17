@@ -30,4 +30,4 @@ Este projeto serviu como laboratório prático para aplicar conceitos como:
 
 ## 🧠 Considerações Finais
 
-<p> Projeto feito com base no curso <strong>Origamid - Css Flexbox.</strong> Projeto feito para o meu próprio aprimoramento na programação, onde consegui evoluir minhas habilidades em CSS (Linguagem de estilização). Acesse o projeto clicando <a href="https://uhwdev.github.io/flexblog.github.io/">aqui</a>.</p> 
+<p> Projeto feito com base no curso <strong>Origamid - Css Flexbox.</strong> Projeto feito para o meu próprio aprimoramento na programação, onde consegui evoluir minhas habilidades em CSS (Linguagem de estilização). Acesse o projeto clicando <a href="https://uhwdev.github.io/flexblog/">aqui</a>.</p> 
